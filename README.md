@@ -7,7 +7,7 @@ Ansible roles and playbooks for cleanup of an existing tendrl setup
 Clone me:
 
 ```bash
-git clone https://github.com/shtripat/tendrl-cleanup.git
+git clone https://github.com/TimothyAsirJeyasing/tendrl-cleanup.git
 ```
 
 
@@ -28,7 +28,7 @@ See sample ansible playbook `site.yml.sample` to check how it fits together.
 Ansible Driven installation:
 
 1) Install ansible >= 2.3
-2) Get the code: `git clone https://github.com/shtripat/tendrl-cleanup.git`
+2) Get the code: `git clone https://github.com/TimothyAsirJeyasing/tendrl-cleanup.git`
 3) Create Ansible inventory file with groups for `tendrl-server`
    and `gluster-servers`. Here is an example of inventory
    file for 4 node cluster with Gluster:
